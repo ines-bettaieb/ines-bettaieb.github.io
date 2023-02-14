@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BOW on Ines Bettaieb</title>
+    <link>https://gohugo-theme-ananke.pages.dev/tags/bow/</link>
+    <description>Recent content in BOW on Ines Bettaieb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/tags/bow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tweet Sentiment Classification</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-1/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-1/</guid>
+      <description>Introduction
+With all of the tweets circulating every second it is hard to tell whether the sentiment behind a specific tweet will impact a company, or a person&amp;rsquo;s, brand for being viral (positive), or devastate profit because it strikes a negative tone. Capturing sentiment in language is important in these times where decisions and reactions are created and updated in seconds. But, which words actually lead to the sentiment description?</description>
+    </item>
+    
+  </channel>
+</rss>

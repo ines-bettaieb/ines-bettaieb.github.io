@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ines Bettaieb</title>
+    <link>https://gohugo-theme-ananke.pages.dev/tags/</link>
+    <description>Recent content in Tags on Ines Bettaieb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BERT</title>
+      <link>https://gohugo-theme-ananke.pages.dev/tags/bert/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/tags/bert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BOW</title>
+      <link>https://gohugo-theme-ananke.pages.dev/tags/bow/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/tags/bow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugging face</title>
+      <link>https://gohugo-theme-ananke.pages.dev/tags/hugging-face/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/tags/hugging-face/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://gohugo-theme-ananke.pages.dev/tags/nlp/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TFIDF</title>
+      <link>https://gohugo-theme-ananke.pages.dev/tags/tfidf/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/tags/tfidf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word Embeddings</title>
+      <link>https://gohugo-theme-ananke.pages.dev/tags/word-embeddings/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/tags/word-embeddings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customer satisfaction</title>
+      <link>https://gohugo-theme-ananke.pages.dev/tags/customer-satisfaction/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/tags/customer-satisfaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error Analysis</title>
+      <link>https://gohugo-theme-ananke.pages.dev/tags/error-analysis/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/tags/error-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature selection</title>
+      <link>https://gohugo-theme-ananke.pages.dev/tags/feature-selection/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/tags/feature-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradient Boosting</title>
+      <link>https://gohugo-theme-ananke.pages.dev/tags/gradient-boosting/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/tags/gradient-boosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperparameter tuning</title>
+      <link>https://gohugo-theme-ananke.pages.dev/tags/hyperparameter-tuning/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/tags/hyperparameter-tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K-fold</title>
+      <link>https://gohugo-theme-ananke.pages.dev/tags/k-fold/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/tags/k-fold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logistic regression</title>
+      <link>https://gohugo-theme-ananke.pages.dev/tags/logistic-regression/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/tags/logistic-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>model selection</title>
+      <link>https://gohugo-theme-ananke.pages.dev/tags/model-selection/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/tags/model-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Forest</title>
+      <link>https://gohugo-theme-ananke.pages.dev/tags/random-forest/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/tags/random-forest/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

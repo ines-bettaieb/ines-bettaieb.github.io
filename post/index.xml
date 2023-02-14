@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ines Bettaieb</title>
+    <link>https://gohugo-theme-ananke.pages.dev/post/</link>
+    <description>Recent content in Projects on Ines Bettaieb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tweet Sentiment Classification</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-1/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-1/</guid>
+      <description>Introduction
+With all of the tweets circulating every second it is hard to tell whether the sentiment behind a specific tweet will impact a company, or a person&amp;rsquo;s, brand for being viral (positive), or devastate profit because it strikes a negative tone. Capturing sentiment in language is important in these times where decisions and reactions are created and updated in seconds. But, which words actually lead to the sentiment description?</description>
+    </item>
+    
+    <item>
+      <title>Airline Passenger Satisfaction</title>
+      <link>https://gohugo-theme-ananke.pages.dev/post/chapter-2/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gohugo-theme-ananke.pages.dev/post/chapter-2/</guid>
+      <description>Backgroud and Problem Statement
+Customer satisfaction is something that more and more carriers are paying attention to and striving to improve. Excellent customer service, especially against your competitors is key for marketability, sales, and customer retention. Inversely — poor customer service ratings can lead to customer attrition and a poor company reputation.
+This problem has been given greater attention in recent years, with the airline businesses restarting aaround the world are decimated by Covid-19 as most international air travel has been grounded.</description>
+    </item>
+    
+  </channel>
+</rss>
